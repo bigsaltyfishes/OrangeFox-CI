@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_9.0"
-export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_9.0"
+export FOX_BRANCH="fox_11.0"
+export DT_LINK="https://github.com/bigsaltyfishes/orangefox_device_lenovo_J607F.git -b r11"
 
-export DEVICE="beryllium"
-export OEM="xiaomi"
+export DEVICE="J607F"
+export OEM="lenovo"
 export TARGET="recoveryimage"
 
 export OUTPUT="OrangeFox*.zip"
