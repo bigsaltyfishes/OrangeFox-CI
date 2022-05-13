@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_12.1"
+export FOX_BRANCH="fox_11.0"
 export DT_LINK="https://github.com/bigsaltyfishes/orangefox_device_lenovo_J607F.git -b r11"
 
 export DEVICE="J607F"
