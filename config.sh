@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/bigsaltyfishes/orangefox_device_lenovo_J607F.git -b r11"
+export FOX_BRANCH="fox_12.1"
+export DT_LINK="https://github.com/bigsaltyfishes/orangefox_device_lenovo_J607F.git -b r12.1"
 
 export DEVICE="J607F"
 export OEM="lenovo"
@@ -22,7 +22,7 @@ DEPS=(
 )
 
 # Extra Command
-export EXTRA_CMD="export OF_MAINTAINER=Sushrut1101"
+export EXTRA_CMD="export OF_MAINTAINER=bigsaltyfishes"
 
 # Magisk
 ## Use the Latest Release of Magisk for the OrangeFox addon
