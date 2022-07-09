@@ -3,6 +3,7 @@
 # Device
 export FOX_BRANCH="fox_12.1"
 export DT_LINK="https://github.com/bigsaltyfishes/orangefox_device_lenovo_J607F.git -b r12.1"
+export DT_PATH="device/lenovo/J607F"
 
 export DEVICE="J607F"
 export OEM="lenovo"
